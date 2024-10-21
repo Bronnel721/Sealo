@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1728346564
-ModificationTime: 1729514016
+ModificationTime: 1729514186
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -78,7 +78,7 @@ Grid
  2000 731.007568359 l 1028
   Named: "Cap Height"
 EndSplineSet
-BeginChars: 65536 113
+BeginChars: 65536 114
 
 StartChar: I
 Encoding: 73 73 0
@@ -1018,6 +1018,7 @@ SplineSet
  132.426896371 -9.998046875 50 40.2832807435 50 311 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 48 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -20 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: m
@@ -1097,6 +1098,7 @@ SplineSet
  196.009765625 -9.998046875 103.998046875 37.1504066036 103.998046875 291 c 0
 EndSplineSet
 Validated: 5
+Kerns2: 48 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 26 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 28 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 32 -20 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: s
@@ -2979,6 +2981,24 @@ SplineSet
  388.599609375 208.874023438 361.859375 190.001953125 344.599609375 190.001953125 c 0
  303.171875 190.001953125 290.109142769 251.236978234 171.568359375 362 c 4
  81.2451171875 446.396905048 71.400390625 471.548632813 71.400390625 488 c 0
+EndSplineSet
+EndChar
+
+StartChar: macron
+Encoding: 175 175 113
+Width: 410
+Flags: W
+HStem: 652.992 86<50.5662 329.413>
+LayerCount: 2
+Fore
+SplineSet
+200 738.9921875 m 4
+ 332.805846252 738.9921875 380.998046875 723.106941598 380.998046875 681.9921875 c 0
+ 380.998046875 655.831695211 366.904404235 644.513671875 330.87109375 644.513671875 c 0
+ 299.93346004 644.513671875 258.162252717 652.9921875 203.998046875 652.9921875 c 4
+ 150.693354242 652.9921875 108.819441301 646.635742188 76.935546875 646.635742188 c 0
+ 50.7421520635 646.635742188 30 656.437051733 30 684.9921875 c 0
+ 30 722.779880058 81.0693359375 738.9921875 200 738.9921875 c 4
 EndSplineSet
 EndChar
 EndChars
