@@ -339,7 +339,7 @@ SplineSet
  217.032418396 361.483464876 320.053698451 105 367 105 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 19 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 1 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -80 "'kern' Horizontal Kerning in Latin lookup 1-1"
+Kerns2: 19 -20 "'kern' Horizontal Kerning in Latin lookup 1-1" 20 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 8 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 7 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 1 -30 "'kern' Horizontal Kerning in Latin lookup 1-1" 22 -70 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: U
@@ -483,7 +483,7 @@ SplineSet
  534.419921875 634.892578125 565.749023438 611.747070312 598.591796875 455.829101562 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 22 -70 "'kern' Horizontal Kerning in Latin lookup 1-1"
+Kerns2: 22 -50 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: M
@@ -696,6 +696,7 @@ SplineSet
  270.375 -9.998046875 259.5 38.5997591291 259.5 159 c 4
 EndSplineSet
 Validated: 5
+Kerns2: 22 -120 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: A
@@ -725,7 +726,7 @@ SplineSet
  631.499023438 183.500976562 594.697654262 183.500976562 362.500976562 183.500976562 c 0
 EndSplineSet
 Validated: 5
-Kerns2: 1 -35 "'kern' Horizontal Kerning in Latin lookup 1-1" 49 -60 "'kern' Horizontal Kerning in Latin lookup 1-1" 24 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -70 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -80 "'kern' Horizontal Kerning in Latin lookup 1-1"
+Kerns2: 21 -120 "'kern' Horizontal Kerning in Latin lookup 1-1" 21 -115 "'kern' Horizontal Kerning in Latin lookup 1-1" 14 -50 "'kern' Horizontal Kerning in Latin lookup 1-1" 55 -17 "'kern' Horizontal Kerning in Latin lookup 1-1" 53 -17 "'kern' Horizontal Kerning in Latin lookup 1-1" 1 -35 "'kern' Horizontal Kerning in Latin lookup 1-1" 49 -17 "'kern' Horizontal Kerning in Latin lookup 1-1" 24 -115 "'kern' Horizontal Kerning in Latin lookup 1-1" 9 -70 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: X
@@ -780,7 +781,7 @@ SplineSet
  401 41.0166015625 391.617972238 -9.998046875 348 -9.998046875 c 0xb8
  303.3125 -9.998046875 293 38.599609375 293 159 c 0
 EndSplineSet
-Kerns2: 22 -120 "'kern' Horizontal Kerning in Latin lookup 1-1"
+Kerns2: 22 -115 "'kern' Horizontal Kerning in Latin lookup 1-1"
 EndChar
 
 StartChar: Z
